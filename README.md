@@ -1,4 +1,4 @@
-# Hamza_DSA_LabDSA
+# VagmiAcharya_DSA_LabDSA
                                                                                                                                        MARKS 10
 
 Input can be hardcoded for both of the programs
